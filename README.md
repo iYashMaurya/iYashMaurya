@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Yash Ashok Maurya</h1>
+<h3 align="center">I'm a Java enthusiast currently engaged in data analytics and machine learning, with plans to venture into deep learning soon.</h3>
 <p align="center">
 <a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello...;it's+me+yash+maurya;3rd+year+student...;java+enthusiast...;learning+to+work+in+open-source" alt="Typing SVG" /></a>
 </p>
@@ -12,9 +14,6 @@
 </div>
 <br>
 <hr>
-<h1 align="center">Hi 👋, I'm Yash Ashok Maurya</h1>
-<h3 align="center">I'm a Java enthusiast currently engaged in data analytics and machine learning, with plans to venture into deep learning soon.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="iyashmaurya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyashmaurya" alt="iyashmaurya" /></a> </p>
