@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello...;it's+me+yash+maurya;3rd+year+student...;java+enthusiast...;llearning+to+work+in+open-source" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello...;it's+me+yash+maurya;3rd+year+student...;java+enthusiast...;llearning+to+work+in+open-sourcece" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">I'm a Java enthusiast currently engaged in data analytics and machine learning, with plans to venture into deep learning soon.</h3>
 
