@@ -1,10 +1,14 @@
 # 💻 Yash Ashok Maurya  
 
 <p align="center">
-<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Yash+Maurya;Backend+Developer+%7C+Java+Enthusiast;Machine+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Yash+Maurya;Backend+Developer+%7C+Java+Enthusiast;Go+Explorer;Knowledge+Contributor" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">I'm a Backend Developer passionate about Java, distributed systems, and machine learning.</h3>
+<h3 align="center">I'm a Backend Developer passionate about Java, Go, and Distributed System.</h3>
+
+<div id="header" align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhNmQxaG1qcHZjcXkxempldW84NjdkMmkycTVoZW9tem00OHg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300" />
+</div>
 
 ---
 
@@ -58,13 +62,6 @@ Relevant Coursework: OOP, Databases, DSA, Operating Systems, Computer Networks
 
 [![An image of @iyashmaurya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iyashmaurya)](https://holopin.io/@iyashmaurya)<br><br>
 
----
-
-<div id="header" align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhNmQxaG1qcHZjcXkxempldW84NjdkMmkycTVoZW9tem00OHg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300" />
-</div>
-
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="iyashmaurya" /> </p>
 
