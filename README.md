@@ -1,69 +1,92 @@
-<p align="center">
-<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello...;it's+me+yash+maurya;final+year+student...;java+enthusiast...;work+in+open-source" alt="Typing SVG" /></a>
-</p>
-<h3 align="center">I'm a Java enthusiast currently engaged in data analytics and machine learning, with plans to venture into deep learning soon.</h3>
+# 💻 Yash Ashok Maurya  
 
-<h1>Holopin Profile</h1>
+<p align="center">
+<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Yash+Maurya;Backend+Developer+%7C+Java+Enthusiast;Machine+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">I'm a Backend Developer passionate about Java, distributed systems, and machine learning.</h3>
+
+---
+
+## 🎓 Education  
+**Bachelor of Engineering in Information Technology**  
+N.M.A.M Institute of Technology, Nitte, KA (Aug 2021 – Jun 2025)  
+**CGPA**: 8.5/10  
+
+Relevant Coursework: OOP, Databases, DSA, Operating Systems, Computer Networks  
+
+---
+
+## 💼 Experience  
+
+### **Software Engineer Intern – Juniper Networks** (Jan 2025 – Jul 2025)  
+- Built and tested **Java-based RESTful APIs**, improving onboarding time by **40%**.  
+- Developed a Linux-based PoC tool to debug configurations, reducing error rates by **50%**.  
+- Automated dynamic file chunking via Xpath, lowering computational overhead by **30%**.  
+- Collaborated in Agile/Scrum sprints, reducing post-release defects by **20%**.  
+- Resolved production issues, maintaining **99.9% uptime**.  
+
+### **Teaching Assistant – Stealth Startup (Top DSA YouTube Channel, 3M+ subs)** (May 2024 – Sep 2024)  
+- Mentored **300+ students** in Java DSA, boosting scores by **20%**.  
+- Reviewed **100+ code submissions**, improving accuracy & runtime efficiency by **25%**.  
+- Increased engagement by **35%** through query resolution and live sessions.  
+
+---
+
+## 🛠️ Projects  
+
+- **Patient Management System (Aug 2025)**  
+   Developed a **cloud-native microservices backend** using SpringBoot, Docker, PostgreSQL, gRPC & REST APIs.  
+   Deployed to **AWS** with CI/CD, Kafka, and API Gateway.  
+
+- **Adventure of Dora (Jan 2024)**  
+   Created a **2D open-world Java game** with AWT, improving rendering latency by **25%**.  
+
+---
+
+## 🧰 Skills  
+
+- **Languages**: C/C++, Java, Python, Go, SQL, HTML, CSS, JS  
+- **Backend**: Spring Boot, Spring Cloud, Spring Security, JPA, JDBC  
+- **APIs & Architecture**: REST APIs, gRPC, Microservices, Maven  
+- **DevOps & Tools**: Kubernetes, Docker, Kafka, CI/CD, Git, Agile/Scrum  
+- **Databases**: PostgreSQL, MySQL, ChromaDB, Elasticsearch, NoSQL  
+
+---
+
+# 🏆 Holopin Profile  
 
 [![An image of @iyashmaurya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iyashmaurya)](https://holopin.io/@iyashmaurya)<br><br>
 
-<hr>
+---
+
 <div id="header" align="center">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhNmQxaG1qcHZjcXkxempldW84NjdkMmkycTVoZW9tem00OHg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300" />
 </div>
-<br>
-<hr>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="iyashmaurya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyashmaurya" alt="iyashmaurya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/why_yashmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/why_yashmaurya?logo=twitter&style=for-the-badge" alt="why_yashmaurya" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Secure Browse**
+## 🌐 Connect With Me  
 
-- 🌱 I’m currently learning **Machine Learning, Deep Leaning**
-
-- 👨‍💻 All of my projects are available at [Github repository](Github repository)
-
-- 💬 Ask me about **ML,DL**
-
-- 📫 How to reach me **iyashmaurya@gmail.com**
-
-- ⚡ Fun fact **I don't speak sarcasm fluently**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/why_yashmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="why_yashmaurya" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yash maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash maurya" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/yash-maurya-backend-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/why_yashmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+</p>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</p>
+📫 **Reach me at**: iyashmaurya@gmail.com  
+
+---
+
+## ⚡ GitHub Stats  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashmaurya&show_icons=true&locale=en&layout=compact" alt="iyashmaurya" /></p>
+
+---
+
+🔥 *Graduate Software Engineer | Always eager to learn, build, and contribute to impactful projects.*  
